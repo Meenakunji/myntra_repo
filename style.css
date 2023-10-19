@@ -254,7 +254,7 @@ overflow: hidden;
     flex-direction: column;
     justify-content: space-between;
   }
-  .footer_box2_bott{
+  .footer_box2_bottom{
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -326,7 +326,7 @@ overflow: hidden;
     color: #696b79;
     font-size: 15px;
   }
-  .footer_box2_bott p{
+  .footer_box2_bottom p{
     color: #696b79;
     font-size: 15px;
   }
